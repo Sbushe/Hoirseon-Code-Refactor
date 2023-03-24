@@ -18,6 +18,8 @@ For this challenge, I was provided a website for Horiseon, a ficitonal online ma
 
 ## Deployed Page
 
+https://sbushe.github.io/Hoirseon-Code-Refactor/
+
 ![Hoirseon Website](https://user-images.githubusercontent.com/117788513/227373201-aae95016-938a-4be4-a5fc-b97dbe0e8e2f.png)
 
 
